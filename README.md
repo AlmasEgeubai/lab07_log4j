@@ -3,5 +3,5 @@
 Простейшая визуальная программа с использованием JavaFX
 
 ![Screenshot](calc.png)
-![Screenshot](result.PNG)
+![Screenshot](result.png)
 
